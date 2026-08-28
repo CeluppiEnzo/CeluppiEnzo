@@ -1,4 +1,3 @@
-```markdown
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=header)
 
 # 👨‍💻 Enzo Celuppi
@@ -112,4 +111,3 @@ Formação técnica em desenvolvimento de sistemas
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer"/>
 </p>
-```
