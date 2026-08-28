@@ -69,7 +69,7 @@ Atualmente, estou aprofundando meus conhecimentos em **Java, Programação Orien
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50"/>
   
-  <img src="https://cdn.simpleicons.org/github/8B5E3C" width="50"/>
+  <img src="https://cdn.simpleicons.org/github/0077B5" width="50"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="50"/>
   
