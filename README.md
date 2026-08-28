@@ -23,28 +23,21 @@ Atualmente, estou aprofundando meus conhecimentos em **Java, Programação Orien
 <p align="center">
 
 <a href="https://www.linkedin.com/in/enzo-celuppi-b956bb3a6/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://portfolio-pessoal-jet-rho.vercel.app/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="45" />
+  <img src="https://img.shields.io/badge/Portfólio-0077B5?style=for-the-badge"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:enzo.sanzovo15@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="45" />
+  <img src="https://img.shields.io/badge/E--mail-0077B5?style=for-the-badge"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://instagram.com/celuppienzo">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/instagram/instagram-original.svg" width="45" />
+  <img src="https://img.shields.io/badge/Instagram-8B5E3C?style=for-the-badge"/>
 </a>
 
-</p>
-
-<p align="center">
-  <sub>LinkedIn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portfólio&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instagram</sub>
 </p>
 
 ---
@@ -75,8 +68,11 @@ Atualmente, estou aprofundando meus conhecimentos em **Java, Programação Orien
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50"/>
+  
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="50"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50"/>
 </p>
 
@@ -94,13 +90,15 @@ Formação técnica em Desenvolvimento de Sistemas
 
 ## 🚀 Atualmente
 
-```text
-☕ Aprimorando Java
-🧠 Estudando Programação Orientada a Objetos
-🌐 Desenvolvendo aplicações web
-🗄️ Trabalhando com bancos de dados
-📚 Evoluindo constantemente como desenvolvedor
-````
+<p align="center">
+
+🔵 **Aprimorando Java**  
+🔵 **Estudando Programação Orientada a Objetos**  
+🔵 **Desenvolvendo aplicações web**  
+🔵 **Trabalhando com bancos de dados**  
+🟤 **Evoluindo constantemente como desenvolvedor**
+
+</p>
 
 ---
 
