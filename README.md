@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Eu sou **Enzo Celuppi**, estudante de **Engenharia de Software na UTFPR** e formado como **Técnico em Desenvolvimento de Sistemas**.
+Olá! Eu sou **Enzo Celuppi**, tenho 17 anos, sou estudante de **Engenharia de Software na UTFPR** e formado como **Técnico em Desenvolvimento de Sistemas**.
 
 Tenho interesse em **desenvolvimento de software, programação e tecnologia**, com foco principalmente em **Java** e no desenvolvimento de aplicações.
 
