@@ -92,11 +92,11 @@ Formação técnica em Desenvolvimento de Sistemas
 
 <p align="center">
 
-🔵 **Aprimorando Java**  
-🔵 **Estudando Programação Orientada a Objetos**  
-🔵 **Desenvolvendo aplicações web**  
-🔵 **Trabalhando com bancos de dados**  
-🟤 **Evoluindo constantemente como desenvolvedor**
+☕ **Aprimorando Java**  
+🧠 **Estudando Programação Orientada a Objetos**  
+🌐 **Desenvolvendo projetos em Java**  
+🗄️ **Trabalhando com bancos de dados**  
+📚 **Evoluindo constantemente como desenvolvedor**
 
 </p>
 
