@@ -6,30 +6,46 @@
   <strong>Estudante de Engenharia de Software | Desenvolvedor Java</strong>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/enzo-celuppi-b956bb3a6/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-pessoal-jet-rho.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfólio-0077B5?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:enzo.sanzovo15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/celuppienzo">
-    <img src="https://img.shields.io/badge/Instagram-8B5E3C?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mim
 
 Olá! Eu sou **Enzo Celuppi**, estudante de **Engenharia de Software na UTFPR** e formado como **Técnico em Desenvolvimento de Sistemas**.
 
-Tenho interesse em **desenvolvimento de software, programação e tecnologia**, com foco principalmente no ecossistema **Java** e no desenvolvimento de aplicações.
+Tenho interesse em **desenvolvimento de software, programação e tecnologia**, com foco principalmente em **Java** e no desenvolvimento de aplicações.
 
-Atualmente estou aprofundando meus conhecimentos em **Java, Programação Orientada a Objetos, desenvolvimento web e bancos de dados**, buscando transformar o conhecimento adquirido em projetos práticos e evoluir constantemente como desenvolvedor.
+Atualmente, estou aprofundando meus conhecimentos em **Java, Programação Orientada a Objetos, desenvolvimento web e bancos de dados**, buscando transformar o que aprendo em projetos práticos e evoluir constantemente como desenvolvedor.
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/enzo-celuppi-b956bb3a6/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://portfolio-pessoal-jet-rho.vercel.app/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:enzo.sanzovo15@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://instagram.com/celuppienzo">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/instagram/instagram-original.svg" width="45" />
+</a>
+
+</p>
+
+<p align="center">
+  <sub>LinkedIn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portfólio&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instagram</sub>
+</p>
 
 ---
 
@@ -72,24 +88,19 @@ Atualmente estou aprofundando meus conhecimentos em **Java, Programação Orient
 UTFPR — Universidade Tecnológica Federal do Paraná
 
 **Técnico em Desenvolvimento de Sistemas**  
-Formação técnica em desenvolvimento de sistemas
+Formação técnica em Desenvolvimento de Sistemas
 
 ---
 
-## 🐙 GitHub
+## 🚀 Atualmente
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CeluppiEnzo&show_icons=true&theme=transparent&title_color=0077B5&icon_color=0077B5&text_color=555555&border_color=0077B5" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeluppiEnzo&layout=compact&theme=transparent&title_color=0077B5&text_color=555555&border_color=0077B5" height="180"/>
-</p>
-
----
-
-## 📈 Atividade no GitHub
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CeluppiEnzo&bg_color=ffffff&color=0077B5&line=0077B5&point=8B5E3C&area=true&hide_border=true" width="95%"/>
-</p>
+```text
+☕ Aprimorando Java
+🧠 Estudando Programação Orientada a Objetos
+🌐 Desenvolvendo aplicações web
+🗄️ Trabalhando com bancos de dados
+📚 Evoluindo constantemente como desenvolvedor
+````
 
 ---
 
